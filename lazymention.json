@@ -1,0 +1,7 @@
+{
+    "domains": ["victormagalhaes.codes"],
+    "storage": "./.data/lazymention",
+    "port": 3000,
+    "address": "0.0.0.0",
+    "logfile": "./.data/lazymention.json.log"
+}

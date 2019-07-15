@@ -49,3 +49,6 @@ jspm_packages
 
 # TypeScript builds
 dist/
+
+# Data files
+.data/
